@@ -1,3 +1,6 @@
-# Testing!
+<link rel="stylesheet" href="styles.css">
 
-If this works, I should have a working github pages site to test against :)
+# 90210, and its depiction of how quickly life can be upended
+
+This is a test for the github pages site that will host my blog post for my
+21M.051 analysis project!
