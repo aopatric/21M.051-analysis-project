@@ -1,3 +1,30 @@
+/* remove the header */
 header {
     display: none;
+}
+
+/* Page Styling */
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #121212;
+    color: #e0e0e0;
+    line-height: 1.6;
+    margin:0;
+    padding: 20px;
+}
+
+/* Styling Links */
+a {
+    color: #1e90ff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Header Styling */
+h1, h2, h3 {
+    color: #ffffff;
+    font-family: 'Poppins', sans-serif;
 }
