@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="/docs/styles.css">
 
 # 90210, and its depiction of how quickly life can be upended
 
